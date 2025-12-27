@@ -8,6 +8,6 @@ public class HelloController {
 
 	 @GetMapping("/hello")
 	    public String hello() {
-	        return "Hello Spring Boot with Docker!";
+	        return "Hi Now in Jenkins and Docker file are done very successfully";
 	    }
 }
